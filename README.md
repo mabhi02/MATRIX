@@ -1,6 +1,6 @@
 # MATRIX - Meta-learning Adaptive Thompson Reinforcement In X-space
 
-A sophisticated AI system for medical diagnosis that combines dual-perspective neural agents with adaptive Thompson sampling for intelligent decision-making in clinical settings.
+An AI system for medical diagnosis that combines dual-perspective neural agents with adaptive Thompson sampling for intelligent decision-making in clinical settings.
 
 ## 🚀 Overview
 
